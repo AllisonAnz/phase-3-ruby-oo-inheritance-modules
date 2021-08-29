@@ -8,3 +8,7 @@ mikhail_baryshnikov = Dancer.new("Mikhail")
 
 puts "#{angelina.name} says: #{angelina.twirl}"
 puts "#{mikhail_baryshnikov.name} says: #{mikhail_baryshnikov.take_a_bow}"
+
+# if you run ruby bin/dance_party 
+#=> Angelina says: I'm twirling!
+    # Mikhail says: Thank you, thank you. It was a pleasure to dance for you all. 
